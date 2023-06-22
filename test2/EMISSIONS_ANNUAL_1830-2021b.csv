@@ -1,4 +1,4 @@
-admin,ISO3,Gas,Component,Year,Data,lat,lon,geometry
+admin0Name,ISO3,Gas,Component,Year,Data,lat,lon,geometry
 Burkina Faso,BFA,CH4,Fossil,1980,0.059998,12.2395,-1.5584,
 Burkina Faso,BFA,CH4,Fossil,1981,0.061529,12.2395,-1.5584,
 Burkina Faso,BFA,CH4,Fossil,1982,0.062709,12.2395,-1.5584,
